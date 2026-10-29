@@ -58,12 +58,20 @@ Real-time Data Engineering
 **End-to-end Data Engineering & AI solution built using:**
 
 Microsoft Fabric
+
 PySpark
+
 SQL
+
 Delta Lake
+
 Power BI
+
+Notebooks
+
 RAG AI
-Key Features:
+
+**Key Features:**
 
 ✅ Medallion Architecture (Bronze, Silver, Gold)
 
