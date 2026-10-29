@@ -87,6 +87,8 @@ RAG AI
 
 
 **Career Objective**
+
 Aspiring AI Data Engineer focused on Microsoft Fabric, Azure Data Engineering, PySpark, SQL, and AI-driven analytics. Passionate about building scalable data platforms and solving real-world business problems using modern cloud technologies.
 
-⭐ Always learning. Always building. Always improving.
+
+**⭐ Always learning. Always building. Always improving.**
